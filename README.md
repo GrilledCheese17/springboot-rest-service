@@ -1,2 +1,2 @@
 # springboot-rest-service
-Creating REST Service with Spring Boot
+Creating a REST Service with Spring Boot
